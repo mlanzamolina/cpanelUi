@@ -12,6 +12,12 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        popart: ['Comic Sans MS', 'cursive'],
+      },
+      rotate: {
+        '-10': '-10deg',
+      },
     },
   },
   plugins: [],
